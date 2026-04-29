@@ -52,9 +52,3 @@ npm run build
 - PDF text extraction quality depends on the PDF (some PDFs lose line breaks).
 - Classification is keyword-based (simple and explainable).
 
-## Phase 3 (pending)
-
-- Backend API + file storage (full-stack)
-- User authentication
-- DOCX upload + ML-based classifier (optional upgrade)
-
